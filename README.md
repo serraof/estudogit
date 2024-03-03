@@ -33,4 +33,7 @@ envia os commits para repositorio remoto
 ### git push <remoto> <branch>
 ### git push origin 1.0
 
-arquivo completo 1.0
+criar nova branch
+### git checkout -b <nome_branch>
+### git checkout -b dev
+
