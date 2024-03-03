@@ -32,3 +32,5 @@ Comando -m insere umna mensagem de commit diretamente pelo linha de comando
 envia os commits para repositorio remoto
 ### git push <remoto> <branch>
 ### git push origin 1.0
+
+arquivo completo 1.0
